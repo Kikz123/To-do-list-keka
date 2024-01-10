@@ -1,4 +1,4 @@
-This project is created using Nodejs
+This project is created using React native expo
 Download the file and open the folder file in VScode 
 And run it 
 And in the output terminal enter npm install
